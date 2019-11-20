@@ -45,6 +45,7 @@ class Controller_name extends CI_Controller {
 		);
 		$this->load->view('View_name', $data);
 	}
+}
 ?>
 ```
 - Create a new View at `application/views` then put like this:
